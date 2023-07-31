@@ -1,5 +1,5 @@
 ### Hello there 👋
-
+### My name is Daniil and I'm Test Automation Engineer. I have to experience testing with CRM systems, Web Security Platform and B2B solutions for corporative clients. Skilled in Java, SQL, Selenium Web Driver, Rest Assured, Postman, Docker, Jenkins, K8s and AWS. 
 <!--
 **assa167/assa167** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
