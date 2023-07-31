@@ -7,7 +7,7 @@ My name is Daniil and I'm Test Automation Engineer. I have to experience testing
 - 🤔 I’m looking for help with digital marketing to drive traffic to my blog
 - 💬 Ask me about QA/AQA 
 - 📫 How to reach me:
-**[Telegram](https://t.me/Daniiiie), **[Instagram](https://instagram.com/danil_assa)
+[Telegram](https://t.me/Daniiiie), [Instagram](https://instagram.com/danil_assa)
 
 
 <!--
